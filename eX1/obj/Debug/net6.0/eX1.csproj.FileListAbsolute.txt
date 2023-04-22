@@ -1,0 +1,15 @@
+D:\CsharpLesson\HW4CSharp\eX1\obj\Debug\net6.0\eX1.csproj.AssemblyReference.cache
+D:\CsharpLesson\HW4CSharp\eX1\obj\Debug\net6.0\eX1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpLesson\HW4CSharp\eX1\obj\Debug\net6.0\eX1.AssemblyInfoInputs.cache
+D:\CsharpLesson\HW4CSharp\eX1\obj\Debug\net6.0\eX1.AssemblyInfo.cs
+D:\CsharpLesson\HW4CSharp\eX1\obj\Debug\net6.0\eX1.csproj.CoreCompileInputs.cache
+D:\CsharpLesson\HW4CSharp\eX1\bin\Debug\net6.0\eX1.exe
+D:\CsharpLesson\HW4CSharp\eX1\bin\Debug\net6.0\eX1.deps.json
+D:\CsharpLesson\HW4CSharp\eX1\bin\Debug\net6.0\eX1.runtimeconfig.json
+D:\CsharpLesson\HW4CSharp\eX1\bin\Debug\net6.0\eX1.dll
+D:\CsharpLesson\HW4CSharp\eX1\bin\Debug\net6.0\eX1.pdb
+D:\CsharpLesson\HW4CSharp\eX1\obj\Debug\net6.0\eX1.dll
+D:\CsharpLesson\HW4CSharp\eX1\obj\Debug\net6.0\refint\eX1.dll
+D:\CsharpLesson\HW4CSharp\eX1\obj\Debug\net6.0\eX1.pdb
+D:\CsharpLesson\HW4CSharp\eX1\obj\Debug\net6.0\eX1.genruntimeconfig.cache
+D:\CsharpLesson\HW4CSharp\eX1\obj\Debug\net6.0\ref\eX1.dll
